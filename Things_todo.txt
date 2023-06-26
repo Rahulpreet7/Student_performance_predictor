@@ -1,0 +1,6 @@
+1. Setup the github repository
+    a> create a new environment(venv) and link github repo to project
+    b> decide a mini project structure{setup.py}
+    c> requirements.txt
+
+2. Create Src folder and buid the package(mlProject.egg-info)
