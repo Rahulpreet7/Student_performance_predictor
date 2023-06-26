@@ -4,3 +4,5 @@
     c> requirements.txt
 
 2. Create Src folder and buid the package(mlProject.egg-info)
+
+3. Create logging, exception and utils file 
