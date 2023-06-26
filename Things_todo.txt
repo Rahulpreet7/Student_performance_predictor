@@ -5,4 +5,8 @@
 
 2. Create Src folder and buid the package(mlProject.egg-info)
 
-3. Create logging, exception and utils file 
+3. Create logging, exception and utils file and verifying that logging and exception works
+
+4. EDA and feature engineering
+
+5. Train the model
