@@ -12,3 +12,7 @@
 5. Train the model
 
 6. Data ingestion
+
+7. Data transformation
+
+8. Model training and evaluation
