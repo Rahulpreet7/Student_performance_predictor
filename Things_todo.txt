@@ -16,3 +16,7 @@
 7. Data transformation
 
 8. Model training and evaluation
+
+9. Creating flask application
+
+10. Prediction pipeline
