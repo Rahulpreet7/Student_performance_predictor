@@ -10,3 +10,5 @@
 4. EDA and feature engineering
 
 5. Train the model
+
+6. Data ingestion
